@@ -1,8 +1,8 @@
 {
   "name": "poc-unit-test",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Proof of Concept, How to test service has injected service in many modules",
+  "author": "Pongkot Sae-li",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
