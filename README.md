@@ -1,6 +1,4 @@
-# poc-unit-test
-
-## Proof of Concept
+# Proof of Concept
 
 Proof of Concept, How to test service has injected service in many modules
 
