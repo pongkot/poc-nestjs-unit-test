@@ -29,6 +29,7 @@ describe('AppController', () => {
 
   describe('root', () => {
     it('should return "Hello World! foo BAR BaZ"', () => {
+
       // 4. spyOn to mock data to method you want
       jest.spyOn(barService, 'getBar').mockImplementation(() => 'BAR');
       jest.spyOn(bazzService, 'getBazz').mockImplementation(() => 'BaZ');
